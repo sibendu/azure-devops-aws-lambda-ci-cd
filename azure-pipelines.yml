@@ -1,8 +1,8 @@
 variables:
 - name: AWS_ACCESS_KEY_ID
-  value:  AKIA6AZRDW4GXUCDBFXU
+  value:  AKI
 - name: AWS_SECRET_KEY_ID
-  value: CP+kFdbPxy3R+KXOfo3vJTt/ZQEj7TpJNiiX63RK
+  value: CP+
   
 stages:
 - stage: Build
