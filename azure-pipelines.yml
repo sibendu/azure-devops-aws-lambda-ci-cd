@@ -2,7 +2,7 @@ variables:
 - name: AWS_ACCESS_KEY_ID
   value: AKIA6AZRDW4G452N5YJQ 
 - name: AWS_SECRET_KEY_ID
-  value: 1NKoarduGAdKr
+  value: 1NKoarduGAdKrBGd3eBNKxFzTmdAD7Ln7k6Q3fKr
   
 stages:
 - stage: Build
